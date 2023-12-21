@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v5adg2ulpfm7v8wy?svg=true)](https://ci.appveyor.com/project/TemaKoli/patterns2)
